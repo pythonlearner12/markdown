@@ -1,7 +1,7 @@
 # markdown
 
 # Pasta funghi
-!(https://www.leukerecepten.nl/wp-content/uploads/2023/10/pasta-funghi.jpg)
+![](https://www.leukerecepten.nl/wp-content/uploads/2023/10/pasta-funghi.jpg)
 
 ## BENODIGDHEDEN
 350 gr pasta naar keuze
